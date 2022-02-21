@@ -11,6 +11,8 @@ Description: Description of the task to be done.
 
 Due Date: Expected due date to finish the task.
 
+Tag: Tag fields.
+
 Status: Shows status of a task.
 
 ## APIs available
